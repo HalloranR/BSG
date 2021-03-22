@@ -1,4 +1,4 @@
-This is a forked repository for the second semester of research. None of this code is mine I have only used what is provided
+This is a forked repository for the second semester of research. None of this code is mine I have only used what is provided to for my second semester of research.
 
 # Bayesian Skip-gram(BSG)
 

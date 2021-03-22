@@ -1,5 +1,4 @@
-This is a forked repository for the second semester of research. None of this code is mine I have only used what is provided to for my second semester of research.
-
+This is a forked repository for the second semester of research. None of this code is mine and for more information look to the research repository.
 # Bayesian Skip-gram(BSG)
 
 This repository contains Theano code for the Bayesian Skip-gram model, COLING 2018.
